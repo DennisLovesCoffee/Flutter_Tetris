@@ -11,10 +11,7 @@ I also recommend having Android studio installed (Virtual Machine).
 
 ## End Result
 Loging Screen
-![](imgs/loginScreen.jpg)
+![](imgs/loginScreen.JPG)
 
 Game Screen
-![](imgs/gameScreen.jpg)
-
-
-
+![](imgs/gameScreen.JPG)
