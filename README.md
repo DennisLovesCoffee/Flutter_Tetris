@@ -10,8 +10,7 @@ Dart & Flutter installed on your machine.
 I also recommend having Android studio installed (Virtual Machine).
 
 ## End Result
-Loging Screen
+### Main Menu
 ![](imgs/loginScreen.JPG)
-
-Game Screen
+### Game Screen
 ![](imgs/gameScreen.JPG)
